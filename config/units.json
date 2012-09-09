@@ -21,7 +21,9 @@
         "type": "RfTransceive"
       },
       "offId": 2137,
-      "window": 1
+      "window": 1,
+      "location": "living-room",
+      "description": "right window"
     },
     {
       "type": "Nexa1Switch",
@@ -29,21 +31,74 @@
         "type": "RfTransceive"
       },
       "offId": 2201,
-      "window": 2
+      "window": 2,
+      "location": "living-room",
+      "description": "right window"
     },
     {
       "type": "Nexa2Remote",
       "rfTransceiveSelector": {
         "type": "RfTransceive"
       },
-      "offId": 2128979239
+      "offId": 2128979239,
+      "location": "living-room"
+    },
+    {
+      "type": "Nexa2Remote",
+      "rfTransceiveSelector": {
+        "type": "RfTransceive"
+      },
+      "offId": 4267773975,
+      "location": "bedroom"
     },
     {
       "type": "Nexa2Dimmer",
       "rfTransceiveSelector": {
         "type": "RfTransceive"
       },
-      "offId": 4276462887
+      "offId": 4276462887,
+      "location": "living-room",
+      "description": "TV bench lamp"
+    },
+    {
+      "type": "Nexa2Dimmer",
+      "rfTransceiveSelector": {
+        "type": "RfTransceive"
+      },
+      "offId": 4276463079,
+      "location": "bedroom",
+      "subLocation": "bjorns-table",
+      "description": "Bjorn's table"
+    },    
+    {
+      "type": "Nexa2Dimmer",
+      "rfTransceiveSelector": {
+        "type": "RfTransceive"
+      },
+      "offId": 2128979431,
+      "location": "bedroom",
+      "subLocation": "lindas-table",
+      "description": "Linda's table"
+    },
+    {
+      "type": "Nexa2Switch",
+      "rfTransceiveSelector": {
+        "type": "RfTransceive"
+      },
+      "offId": 3202721255,
+      "location": "bedroom",
+      "subLocation": "bureau",
+      "description": "Bureau lamp"
+    },
+    {
+      "type": "Nexa2Switch",
+      "rfTransceiveSelector": {
+        "type": "RfTransceive"
+      },
+      "offId": 1055237607,
+      "location": "bedroom",
+      "subLocation": "window",
+      "description": "Window lamp"
     }
   ]
 }
