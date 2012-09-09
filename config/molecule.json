@@ -1,6 +1,7 @@
 {
   "controllers": [
     "nexa-lights",
+    "nexa-learn",
     "temperature"
   ]
 }
