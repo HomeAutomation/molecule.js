@@ -9,6 +9,10 @@ control logic scripts.
 
 ### Set up environment
 
+Install Node.js. For example, on Ubuntu, run
+
+    $ sudo apt-get install nodejs npm libexpat1-dev
+
 In order to get started, clone this repository and create your own
 branch.
 
