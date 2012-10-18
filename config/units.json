@@ -99,6 +99,14 @@
       "location": "bedroom",
       "subLocation": "window",
       "description": "Window lamp"
+    },
+    {
+      "type": "RubicsonTemperature",
+      "rfTransceiveSelector": {
+        "type": "RfTransceive"
+      },
+      "channelId": 40416960270,
+      "location": "bedroom"
     }
   ]
 }
